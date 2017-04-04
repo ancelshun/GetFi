@@ -1,0 +1,7 @@
+
+platform :ios, '8.0'
+workspace 'GetFiWorkspace'
+
+target 'GetFi' do
+	project 'GetFi/GetFi.xcodeproj'
+end
